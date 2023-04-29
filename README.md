@@ -11,3 +11,10 @@
 
 历史记录：$ git log
 
+连接仓库：$ git remote add origin https://github.com/DingFengaaa/epdemic.git
+
+下载在线仓库文件：$ git pull origin master
+
+上传：$ git push origin master
+
+仓库连接成功：$ git remote -v
